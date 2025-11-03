@@ -1,3 +1,8 @@
+
+title: Arch Linux Installation
+layout: default
+
+
 # Project 1: Arch Linux Installation  
 **Author:** Alexandra Hernandez Gomez  
 **Revision Date:** November 2, 2025  
